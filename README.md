@@ -3,4 +3,4 @@
 
 
 
-# Intro 2 Python
+# Intermediate Python
