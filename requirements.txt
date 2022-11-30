@@ -1,4 +1,5 @@
 numpy
 pandas
+plotnine
 seaborn
 sqlalchemy
