@@ -1,5 +1,7 @@
+matplotlib
 numpy
 pandas
 plotnine
+scipy
 seaborn
 sqlalchemy
