@@ -1,7 +1,12 @@
+--upgrade
+holoviews
+hvplot
 matplotlib
 numpy
 pandas
+pingouin
 plotnine
+scikit-learn
 scipy
 seaborn
 sqlalchemy

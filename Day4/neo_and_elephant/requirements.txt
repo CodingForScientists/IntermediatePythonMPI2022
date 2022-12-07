@@ -1,7 +1,0 @@
-jupyterlab
-matplotlib
-nixio
-neo
-elephant
-viziphant
-rise
